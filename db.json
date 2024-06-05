@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "34ee",
+      "firstName": "Магжан",
+      "lastName": "Турдыгазин",
+      "email": "magzhan.turdygazin@gmail.com",
+      "skills": [
+        "HTML",
+        "JavaScript"
+      ],
+      "registrationDate": "2024-06-05T09:48:55.769Z"
+    }
+  ]
+}
